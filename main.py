@@ -1,4 +1,3 @@
-from string import whitespace
 import mysql.connector as sql
 from dataclasses import dataclass
 import sys
